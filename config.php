@@ -1,7 +1,7 @@
 <?php
-$dsn = 'mysql:host=localhost;dbname=attendance_db';
-$username = 'root';
-$password = '';
+$dsn = 'mysql:host=localhost;dbname=atte_db';
+$username = 'atte_db';
+$password = 'Universal@2024';
 $options = array(
     PDO::ATTR_ERRMODE => PDO::ERRMODE_EXCEPTION,
 );
